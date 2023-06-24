@@ -1,0 +1,17 @@
+
+================================================================
+======== txAdmin Starting - 11/21/2022, 1:07:03 AM              
+================================================================
+[01:07:41] [PHUD] created admins file
+[01:08:22] [PHUD] Changing global settings via setup stepper and started Deployer.
+[01:08:26] [PHUD] Setting recipe.
+[01:10:25] [PHUD] Running recipe.
+[01:10:54] [PHUD] Completed and committed server deploy.
+[01:14:56] [PHUD] RESTART SERVER
+[01:23:53] [PHUD] RESTART SERVER
+[01:30:26] [PHUD] stop
+
+================================================================
+======== txAdmin Starting - 11/21/2022, 3:09:43 PM              
+================================================================
+[15:09:54] [PHUD] logged in from 127.0.0.1 via password

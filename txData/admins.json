@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PHUD",
+    "master": true,
+    "password_hash": "$2a$11$3TPgYw.vtU64JliLEmkiuOiNzn0YRStUIzWMpbCutcknTw6n/cJoe",
+    "providers": {
+      "citizenfx": {
+        "id": "PHUD",
+        "identifier": "fivem:8694937",
+        "data": {
+          "sub": "a5339279f64d085bf1a245548454a9f2",
+          "nameid": "https://forum.cfx.re/internal/user/8694937",
+          "name": "PHUD",
+          "picture": "https://avatars.discourse.org/v4/letter/p/7933a0/256.png",
+          "profile": "https://forum.cfx.re/u/PHUD"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

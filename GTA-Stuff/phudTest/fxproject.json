@@ -1,0 +1,25 @@
+{
+  "assets": {
+    "resources": {
+      "enabled": true,
+      "restartOnChange": true
+    }
+  },
+  "serverUpdateChannel": "recommended",
+  "systemResources": [
+    "basic-gamemode",
+    "map-skater",
+    "chat",
+    "playernames",
+    "mapmanager",
+    "spawnmanager",
+    "sessionmanager",
+    "baseevents",
+    "hardcap",
+    "webpack",
+    "yarn"
+  ],
+  "name": "phudTest",
+  "createdAt": "2022-11-21T05:49:20.935Z",
+  "variables": {}
+}
